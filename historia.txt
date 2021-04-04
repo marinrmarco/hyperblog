@@ -1,1 +1,2 @@
 Este es un archivo de texto para pruebas del curso de Git y Github
+Y este es un cambio realizado para hacer el segundo commit
